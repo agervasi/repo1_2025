@@ -1,4 +1,4 @@
-//versione 0
+//versione 1
 //
 
 import java.util.Arrays;
@@ -12,7 +12,7 @@ public class Libreria {
 	private Libro[] libri;
 	
 	//private Libro libri[];
-	
+	// ciao ciao
 	public Libreria(String nome, int maxLibri) {
 		this.nome = nome;
 		this.maxLibri = maxLibri;
